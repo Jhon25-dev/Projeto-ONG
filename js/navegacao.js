@@ -267,7 +267,7 @@ export function navegarPara(rota, adicionarHistorico = true) {
             </p>
 
             <p>
-                Telefone: (43) 99999-0000
+                Telefone: (43) 99999-0001
             </p>
 
             <div class="alert">
