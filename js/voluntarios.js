@@ -138,7 +138,7 @@ export function renderizarVoluntarios() {
     if (voluntarios.length === 0) {
 
         lista.innerHTML =
-            "<p>Nenhum voluntário cadastrado.</p>";
+            "<p>Ainda não há voluntários cadastrados.</p>";
 
         return;
     }
