@@ -1,7 +1,7 @@
 export const projetos = [
     {
         titulo: "Aprender Digital",
-        descricao: "Aulas de informática.",
+        descricao: "Aulas de informática para promover a inclusão digital",
         imagem: "../../img/aula-informatica.png",
         alt: "Aulas de informática"
     },
